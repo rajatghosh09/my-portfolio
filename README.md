@@ -1,16 +1,71 @@
-# My Portfolio Wesbite - Overview 🚀
+# 🌐 My Portfolio Website
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the open-source version of my personal portfolio! 🚀  
+This project is a reflection of my skills, creativity, and passion for modern web development.
 
-## Instructions 🛠️
+🔗 **Live Preview:** https://blood-need-rajat.vercel.app/  
+*(Feel free to explore and get inspired!)*
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+---
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## ✨ About This Project
 
-![Portfolio-Preview](public/images/preview.png)
+This portfolio is not just a website — it's an interactive experience.  
+Built with modern technologies and smooth animations, it showcases my projects, skills, and development journey in a visually engaging way.
 
-## License
+---
 
-This project is open source and available under the [MIT License](LICENSE).
+## ⚡ Features
+
+- 🎨 Clean and modern UI/UX  
+- 🌀 Smooth animations powered by GSAP  
+- 🌌 Interactive 3D elements using Three.js & WebGL  
+- 📱 Fully responsive across all devices  
+- 🚀 Optimized for performance  
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React  
+- 📘 TypeScript  
+- 🎞️ GSAP  
+- 🌐 Three.js  
+- 🧪 WebGL  
+- 🎨 HTML5 & CSS3  
+- 🧠 JavaScript  
+
+---
+
+## ⚠️ Important Note
+
+This project uses **GSAP Club plugins (trial version)**.  
+Please note:
+
+🔴 Trial plugins are **not allowed for production/hosting**
+
+To use official plugins, get access here:  
+👉 https://gsap.com/docs/v3/Installation/
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](public/images/preview.png)
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repository, explore the code, and suggest improvements!  
+If you like it, don’t forget to ⭐ the repo 😉
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+💬 *Let’s connect and build something amazing together!*
