@@ -3,7 +3,7 @@
 Welcome to the open-source version of my personal portfolio! 🚀  
 This project is a reflection of my skills, creativity, and passion for modern web development.
 
-🔗 **Live Preview:** https://blood-need-rajat.vercel.app/  
+🔗 **Live Preview:**(https://my-portfolio-rg-eosin.vercel.app/)  
 *(Feel free to explore and get inspired!)*
 
 ---
